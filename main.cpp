@@ -3,6 +3,8 @@
 
 using namespace std;
 
+// README and comments pending.
+
 int readInt(const string& prompt);
 
 int main() {
