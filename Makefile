@@ -1,7 +1,7 @@
 CXX := g++
 CXXFLAGS := -std=c++17 -Wall -Wextra -pedantic
 TARGET := app
-SRC := main.cpp
+SRC := main.cpp hash_table.cpp
 
 .PHONY: all run clean
 
